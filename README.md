@@ -1,6 +1,4 @@
-I am an instrumentation engineer who pivoted to neuroscience, bringing a unique engineering mindset to understand the brain. My research investigates how the brain decodes complex sound sequences.
-
-
+I am a graduate student pursuing my PhD in the **Information Processing Laboratory** at **[IIT Kharagpur]**, under the guidance of **Dr. Sharba Bandyopadhyay**. My background as an instrumentation engineer gives me a unique perspective on neuroscience, where my research investigates how the brain decodes complex sound sequences.
 
 * **Wet-Lab Experiments:** I perform advanced *in vivo* techniques in mice, including two-photon calcium imaging and electrophysiology.
 
