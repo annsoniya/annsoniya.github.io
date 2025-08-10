@@ -1,5 +1,8 @@
+theme: jekyll-theme-cayman
+title: ANN SONIYA M MICHEAL
+description: From Engineering to Neuroscience: Investigating the brain with code and experiments.
 I am an instrumentation engineer who pivoted to neuroscience, bringing a unique engineering mindset to understand the brain. My research investigates how the brain decodes sound sequences, and I tackle this from two angles:
 
-* **Wet-Lab Experiments:** I perform advanced *in vivo* techniques in mice, including two-photon calcium imaging and electrophysiology.
-* **Computational Modelling:**Develop a recurrent neural network using the Wilson-Cowan framework to explain the neural data.
-* Applying my background as an instrumentation engineer to design novel EEG tasks and build robust data analysis pipelines.
+Wet-Lab Experiments: I perform advanced in vivo techniques in mice, including two-photon calcium imaging and electrophysiology.
+EEG Experiments: I also leverage my background as an instrumentation engineer to design novel EEG tasks and build robust data analysis pipelines.
+Computational Modelling: Develop a recurrent neural network using the Wilson-Cowan framework to explain the neural data.
