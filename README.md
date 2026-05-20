@@ -53,4 +53,4 @@ I am a graduate student pursuing my PhD in systems neuroscience from the **Infor
    *A Method for Reducing Three Phase Power Capacitor Switching Transients.*  
    *International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering*, Vol. 4, Issue 3, March 2015.
    
-[View my full CV](ann.pdf)
+[View my full CV](ann_CV.pdf)
